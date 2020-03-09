@@ -27,9 +27,7 @@ conda on your machine:
    https://github.com/davidcsterratt/IAML2019-SEM2-Assignment2, click
    on "Clone or download" and then "Download ZIP" at the bottom
 
-You will find all necessary data and the assignment notebook in the
-Assignment2 folder. The submission instructions are also contained in
-the notebook.
+You will find all necessary data and the assignment notebook in the repository. The submission instructions are contained in the notebook.
 
 The submission deadline for this assignment is **Monday 30/03/2019 at
  16:00 UK time (GMT)**.
