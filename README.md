@@ -8,10 +8,9 @@ Edinburgh, School of Informatics for FTP and Distance learning
 students (2019-20).
 
 **First make sure you read the important information contained in the
-[Assignment2 PDF file](/blob/master/Assignment2.pdf)**. Please pay
-particulare attention to the link about [good scholarly
+[Assignment2 PDF file](https://github.com/davidcsterratt/IAML2019-SEM2-Assignment2/blob/master/Assignment2.pdf)**. Please pay
+particular attention to the link about [good scholarly
 practice](http://web.inf.ed.ac.uk/infweb/admin/policies/academic-misconduct).
-
 
 To set up your environment, please follow the instructions at:
 https://github.com/davidcsterratt/iaml-labs
