@@ -21,11 +21,21 @@ conda on your machine:
   and use the +GitRepo button to enter this repository,
   https://github.com/davidcsterratt/IAML2019-SEM2-Assignment2.git
 
-2. If you are using conda, go to 
-   https://github.com/davidcsterratt/IAML2019-SEM2-Assignment2, click
-   on "Clone or download" and then "Download ZIP" at the bottom
+2. If you are using conda on your own machine:
+
+  - If you are not familiar with version control systems, we recommend
+    just downloading the repository as a zip file and using it as is.
+    I.e. go to
+    https://github.com/davidcsterratt/IAML2019-SEM2-Assignment2, click
+    on "Clone or download" and then "Download ZIP" at the bottom.
+
+  - If you are going to use github for version control for your own
+    work, **you MUST fork the current repository into a private one -
+    if you fork it into a public repository, others will be able to
+    see your work.**
 
 You will find all necessary data and the assignment notebook in the repository. The submission instructions are contained in the notebook.
 
 The submission deadline for this assignment is **Monday 30/03/2019 at
  16:00 UK time (GMT)**.
+
