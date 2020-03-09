@@ -37,5 +37,5 @@ conda on your machine:
 You will find all necessary data and the assignment notebook in the repository. The submission instructions are contained in the notebook.
 
 The submission deadline for this assignment is **Monday 30/03/2019 at
- 16:00 UK time (GMT)**.
+ 16:00 UK time (BST)**.
 
